@@ -88,6 +88,8 @@ Give a ⭐️ if you like this project!
 
 - To my team they have helped me
 - Thanks to Microverse study material and guidelines
+- I am still new to linter and may have some shortfalls
+- I will cover these shortfalls in the coming sessions
 
 ## 📝 License
 
